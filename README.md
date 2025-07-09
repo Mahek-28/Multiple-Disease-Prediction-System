@@ -37,7 +37,7 @@ Multiple-Disease-Prediction-System/
 - `diabetes_model.sav`: Predicts diabetes from features like glucose level, BMI, age, pregnancies, etc.
 - `heart_model.sav`: Predicts heart disease based on cholesterol, resting blood pressure, max heart rate, and more.
 
-All models are saved using `joblib` and are trained on well-known public datasets.
+All models are saved using `pickle` and are trained on well-known public datasets.
 
 ---
 
@@ -46,16 +46,14 @@ All models are saved using `joblib` and are trained on well-known public dataset
 ### 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/Mahek-28/Multiple-Disease-Prediction-System.git
 cd Multiple-Disease-Prediction-System
 
-2. (Optional) Create and Activate a Virtual Environment
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+### 2. Install Required Libraries
 pip install -r requirements.txt
 
+### 3. Run the Streamlit App
 streamlit run multiple_disease_pred.py
 
 
