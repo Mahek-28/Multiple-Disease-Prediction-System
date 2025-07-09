@@ -1,5 +1,5 @@
-numpy
-pickle-mixin
 streamlit
-streamlit-option-menu
+pandas
+numpy
 scikit-learn
+streamlit-option-menu
