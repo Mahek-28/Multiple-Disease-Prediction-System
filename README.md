@@ -51,7 +51,7 @@ git clone https://github.com/Mahek-28/Multiple-Disease-Prediction-System.git
 cd Multiple-Disease-Prediction-System
 
 ### 2. Install Required Libraries
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ### 3. Run the Streamlit App
 streamlit run multiple_disease_pred.py
