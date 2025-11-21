@@ -56,4 +56,9 @@ pip install -r requirement.txt
 ### 3. Run the Streamlit App
 streamlit run multiple_disease_pred.py
 
+## 🎥 Image of UI-Interface
+<img width="1905" height="907" alt="diabetes prediction" src="https://github.com/user-attachments/assets/7118ff25-c908-4e45-ba47-56870f0729f0" />
+
+<img width="1901" height="913" alt="Heart Disease Prediction" src="https://github.com/user-attachments/assets/2bffcd56-8227-42b1-b5c3-b4a383192f8d" />
+
 
