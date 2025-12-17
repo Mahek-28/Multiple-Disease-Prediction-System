@@ -12,12 +12,12 @@ This application enables users to enter health parameters and receive instant pr
 
 ## 📂 Project Structure
 Multiple-Disease-Prediction-System/
-│
-├── multiple_disease_pred.py # Main Streamlit app
-├── diabetes_model.sav # Trained model for diabetes
-├── heart_model.sav # Trained model for heart disease
-├── requirements.txt # List of Python dependencies
-└── README.md # Project overview
+  │
+- ├── multiple_disease_pred.py # Main Streamlit app
+- ├── diabetes_model.sav # Trained model for diabetes
+- ├── heart_model.sav # Trained model for heart disease
+- ├── requirements.txt # List of Python dependencies
+- └── README.md # Project overview
 
 
 ---
